@@ -20,7 +20,7 @@ API_HASH = config("1db614ec07489cf356faaf6547709c27", default=None)
 BOT_TOKEN = config("7798107233:AAE3yqJrbsWlgEwfw85nsgzvSaFRnlqd20g", default=None)
 SESSION = config("1BVtsOKEBu7Miet6L4AdbC7XLUuz2ffa6zpvtZyQic7fjQJYsEt6hYrGJe60UnCMea7b-56_IUIIB2QcKq7qCPvKmKQOjeuzOts_9eM7xzsL97dNIyp1kaRc7XKlZDayoSKpkCi6OB2-SqLaEhRgOeJn2C-R91WdR2IR4igN77yh_JAgyoxeiwZ8gDg4p65E5kJzo6ggiGx5YiyZNRJeQrsCofPMzClCi2DIilPfQQG9t5GqMyJY6GwW0_m4sdgKwNXNFtTSSW7rDvp4t7J8NEM2gjoMn9gqwQbLmtjAj9qYrvrtjzsWrdTFwceSKdnUuquHGGujs9Kj2zufkuWO7aYRRbQJYJuI=", default=None)
 FORCESUB = config("-1002294570357", default=None)
-AUTH = config("AUTH", default=None)
+AUTH = config("7059757087", default=None)
 SUDO_USERS = []
 
 if len(AUTH) != 0:
